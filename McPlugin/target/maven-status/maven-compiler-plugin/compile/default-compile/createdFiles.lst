@@ -1,0 +1,8 @@
+org\mcplugin\McPlugin.class
+org\mcplugin\Region\RegionProtectionListener.class
+org\mcplugin\Region\RegionCache.class
+org\mcplugin\login\DailyLoginListener.class
+org\mcplugin\login\DailyLoginReward.class
+org\mcplugin\Region\Region.class
+org\mcplugin\Region\RegionSelector.class
+org\mcplugin\mysql\DatabaseManager.class
